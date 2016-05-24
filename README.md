@@ -5,7 +5,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Location Rating | Item          | Price | Item Rating
 ----       | ----       | -------------------- | --------------- | ------        | ----- | ------ 
-2016-05-24 | New Bohemia | Marquette (food truck) | A               | Combo brat | $10 |:star::star::star::star:
-2016-05-23 | Which Wich | 800 Nicollet Mall    | A               | Wicked (varied) | $ | :star::star::star::star:
-2016-05-20 | freshii    | Gaviidae Common      | A               | buffalo chicken wrap| $ | :star::star::star::star:
-2016-05-19 | My Burger  | 6 Quebec building    | A               | backdraft burger | $ | :star::star::star::star:
+2016-05-24 | New Bohemia | Marquette (food truck) | A               | Combo brat | :dollar: |:star::star::star::star:
+2016-05-23 | Which Wich | 800 Nicollet Mall    | A               | Wicked (varied) | :dollar: | :star::star::star::star:
+2016-05-20 | freshii    | Gaviidae Common      | A               | buffalo chicken wrap| :dollar: | :star::star::star::star:
+2016-05-19 | My Burger  | 6 Quebec building    | A               | backdraft burger | :dollar: | :star::star::star::star:
