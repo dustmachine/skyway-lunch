@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-05-31 | Baja Sol   | 40 S. 6th Street     | shrimp burrito | :dollar: | :star::star::star::star:
 2016-05-25 | Pizza Luce | 4th St & 2nd Ave | Meat slice | :free: |:star::star::star::star:star:
 2016-05-24 | New Bohemia | Marquette (food truck) | Combo brat | :dollar: |:star::star::star::star:
 2016-05-23 | Which Wich | 800 Nicollet Mall    | Wicked (varied) | :dollar: | :star::star::star::star:
