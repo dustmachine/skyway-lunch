@@ -9,7 +9,7 @@ Date       | Name       | Approximate Location | Item          | Price | Item Ra
 2016-06-02 | Taco John's | 607 S Marquette (Quebec) | chicken tacos | :dollar: | :star::star::star:
 2016-06-01 | Bamboo Garden | 608 2nd Ave S (Northstar) | spicy chicken | :dollar: | :star::star::star:
 2016-05-31 | Baja Sol   | 40 S 7th Street (City Center)     | shrimp burrito | :dollar: | :star::star::star::star:
-2016-05-25 | Pizza Luce | 4th St & 2nd Ave | Meat slice | :free: |:star::star::star::star:star:
+2016-05-25 | Pizza Luce | 4th St & 2nd Ave | Meat slice | :free: |:star::star::star::star::star:
 2016-05-24 | New Bohemia | Marquette (food truck) | Combo brat | :dollar: |:star::star::star::star:
 2016-05-23 | Which Wich | 800 Nicollet Mall    | Wicked (varied) | :dollar: | :star::star::star::star:
 2016-05-20 | freshii    | Gaviidae Common      | buffalo chicken wrap| :dollar: | :star::star::star::star:
