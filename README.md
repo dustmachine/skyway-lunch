@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-06-07 | The Salad Bar | 40 S 7th Street (City Center) | santa fe salad | :dollar: | :star::star::star::star:
 2016-06-02 | Taco John's | 607 S Marquette (Quebec) | chicken tacos | :dollar: | :star::star::star:
 2016-06-01 | Bamboo Garden | 608 2nd Ave S (Northstar) | spicy chicken | :dollar: | :star::star::star:
 2016-05-31 | Baja Sol   | 40 S 7th Street (City Center)     | shrimp burrito | :dollar: | :star::star::star::star:
