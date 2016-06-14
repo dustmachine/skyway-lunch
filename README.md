@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-06-14 | Panera | ??? Nicollet Mall | panini | :free: | :star::star::star::star:
+2016-06-13 | My Burger  | 6 Quebec building    | burger-of-the-month | :dollar: | :star::star::star::star:
 2016-06-10 | D.Brian's | 800 Nicollet Mall (USBank) | santa fe wrap | :dollar: | :star::star::star::star:
 2016-06-09 | Taco John's | 607 S Marquette (Quebec) | chicken soft tacos | :dollar: | :star::star::star:
 2016-06-07 | The Salad Bar | 40 S 7th Street (City Center) | santa fe salad | :dollar: | :star::star::star::star:
