@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-06-20 | Erbert and Gerbert's | 601 Marquette Ave (Quebec) | the Apollo | :dollar: | :star::star::star::star:
 2016-06-16 | Mama's Pizza | 800 Nicollet Mall (USBank) | 2 slices pizza | :dollar: | :star::star::star:
 2016-06-14 | Panera | 809 Nicollet Mall | cuban panini | :free: | :star::star::star::star:
 2016-06-13 | My Burger  | 6 Quebec building    | burger-of-the-month | :dollar: | :star::star::star::star:
