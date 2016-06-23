@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-06-23 | Au Bon Pain | 733 Marquette (Roanoke) | chicken pomodoro | :dollar: |:star::star::star::star:
 2016-06-22 | Jake's | Marquette (food truck) | Lobster tacos | :dollar::dollar: |:star::star::star::star:
 2016-06-21 | Potbelly | 527 S Marquette Ave (Rand) | wreck on flat | :dollar: | :star::star::star::star::star:
 2016-06-20 | Erbert and Gerbert's | 601 Marquette Ave (Quebec) | the Apollo | :dollar: | :star::star::star::star:
