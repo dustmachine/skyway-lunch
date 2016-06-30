@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-06-30 | Alimama's Sambusa | Marquette (food truck) | curry chicken combo | :dollar: |:star::star::star:
+2016-06-29 | Caribou Coffee | 501 Washington Ave | sausage egg chese | :dollar: | :star::star::star:
 2016-06-28 | Leann Chin | 700 Nicollet Mall (City Center) | red thai chicken | :dollar: | :star::star::star:
 2016-06-24 | Potbelly | 80 S 8th Street (IDS) | smoked ham | :dollar: | :star::star::star::star:
 2016-06-23 | Au Bon Pain | 733 Marquette (Roanoke) | chicken pomodoro | :dollar: |:star::star::star::star:
