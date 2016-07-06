@@ -6,6 +6,9 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-07-06 | Bruegger's | Gaviidae Common | pastrami egg swiss | :dollar: |:star::star::star::star:
+2016-07-05 | Brothers Deli | 50 S 6th St | smothered chicken sammich | :dollar::dollar: |:star::star::star:
+2016-07-01 | Starbucks | 600 Hennepin Ave | chorizo, jack, egg sandwich | :dollar: |:star::star::star::star:
 2016-06-30 | Alimama's Sambusa | Marquette (food truck) | curry chicken combo | :dollar: |:star::star::star:
 2016-06-29 | Caribou Coffee | 501 Washington Ave | sausage egg chese | :dollar: | :star::star::star:
 2016-06-28 | Leann Chin | 700 Nicollet Mall (City Center) | red thai chicken | :dollar: | :star::star::star:
