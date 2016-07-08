@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-07-08 | World Street Kitchen | Marquette (food truck) | grilled chicken bowl | :dollar: |:star::star::star::star:
+2016-07-07 | Loud Mouth | Marquette (food truck) | Thai chicken | :dollar: |:star::star::star:
 2016-07-06 | Bruegger's | Gaviidae Common | pastrami egg swiss | :dollar: |:star::star::star::star:
 2016-07-05 | Brothers Deli | 50 S 6th St | smothered chicken sammich | :dollar::dollar: |:star::star::star:
 2016-07-01 | Starbucks | 600 Hennepin Ave | chorizo, jack, egg sandwich | :dollar: |:star::star::star::star:
