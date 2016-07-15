@@ -8,6 +8,7 @@ Date       | Name       | Approximate Location | Item          | Price | Item Ra
 ----       | ----       | -------------------- | ------        | ----- | ------ 
 2016-07-14 | D'Amico and Sons | 555 Nicollet Mall | Hot Italian | :dollar: |:star::star::star:
 2016-07-13 | Ling and Louie's | 921 Nicollet Mall | Firecracker shrimp | :dollar: |:star::star::star::star:
+2016-07-08 | World Street Kitchen | Marquette (food truck) | O.G.Grilled Chicken bowl | :dollar: |:star::star::star:
 2016-07-07 | Loud Mouth | Marquette (food truck) | Thai chicken | :dollar: |:star::star::star:
 2016-07-06 | Bruegger's | Gaviidae Common | pastrami egg swiss | :dollar: |:star::star::star::star:
 2016-07-05 | Brothers Deli | 50 S 6th St | smothered chicken sammich | :dollar::dollar: |:star::star::star:
