@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-07-15 | Asian Max | 800 Nicollet Mall | sesame chicken| :dollar: |:star::star:
 2016-07-14 | D'Amico and Sons | 555 Nicollet Mall | Hot Italian | :dollar: |:star::star::star:
 2016-07-13 | Ling and Louie's | 921 Nicollet Mall | Firecracker shrimp | :dollar: |:star::star::star::star:
 2016-07-08 | World Street Kitchen | Marquette (food truck) | O.G.Grilled Chicken bowl | :dollar: |:star::star::star:
