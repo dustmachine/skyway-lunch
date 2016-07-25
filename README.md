@@ -6,6 +6,9 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-07-25 | World Street Kitchen | Marquette (food truck) | curry chicken Bangkok burrito | :dollar: |:star::star::star::star:
+2016-07-22 | Jake's | Marquette (food truck) | Lobster tacos | :dollar::dollar: |:star::star::star::star:
+2016-07-19 | RA Mac Sammy's | Marquette (food truck) | pizza mac | :dollar: |:star::star::star::star:
 2016-07-18 | Jimmy Johns | 600 Hennepin Ave | Pepe (#1) | :dollar: |:star::star::star:
 2016-07-15 | Asian Max | 800 Nicollet Mall | sesame chicken| :dollar: |:star::star:
 2016-07-14 | D'Amico and Sons | 555 Nicollet Mall | Hot Italian | :dollar: |:star::star::star:
