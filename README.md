@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-07-27 | Mama's Pizza | 800 Nicollet Mall (USBank) | bbq pizza | :dollar: | :star::star::star:
 2016-07-26 | Sprout Salad Co | 555 Nicollet Mall | Ensalada Mexicana with chicken | :dollar::dollar: | :star::star::star::star:
 2016-07-25 | World Street Kitchen | Marquette (food truck) | curry chicken Bangkok burrito | :dollar: |:star::star::star::star:
 2016-07-22 | Jake's | Marquette (food truck) | Lobster tacos | :dollar::dollar: |:star::star::star::star:
