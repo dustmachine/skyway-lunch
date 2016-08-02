@@ -6,7 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
-2016-07-29 | Skyway Wok |  | sesame chicken | :dollar: | :star::star::star:
+2016-08-01 | Ginelli's Pizza | 121 S 8th Street | slice supreme | :dollar: | :star::star::star::star:
+2016-07-29 | Skyway Wok | 250 2nd Ave S | sesame chicken | :dollar: | :star::star::star:
 2016-07-28 | Butcher Salt | Marquette (food truck) | sliders and browns | :dollar::dollar: | :star::star::star::star:
 2016-07-27 | Mama's Pizza | 800 Nicollet Mall (USBank) | bbq pizza | :dollar: | :star::star::star:
 2016-07-26 | Sprout Salad Co | 555 Nicollet Mall | Ensalada Mexicana with chicken | :dollar::dollar: | :star::star::star::star:
