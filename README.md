@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-08-08 | La Belle Crepe | 825 Nicollet Mall | jerk chicken banh mi | :dollar: | :star::star::star:
+2016-08-05 | Orient Express | 601 Marquette Ave (Quebec) | sesame chicken | :dollar: | :star::star::star:
 2016-08-03 | Sasquatch Sandwiches | Marquette (food truck) | buon giorno | :dollar: | :star::star::star:
 2016-08-02 | Chipotle | 50 S 6th Street | crispy chicken taco | :dollar: | :star::star::star::star:
 2016-08-01 | Ginelli's Pizza | 121 S 8th Street | slice supreme | :dollar: | :star::star::star::star:
