@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-08-10 | Qdoba | 50 S 10th Street | chicken quesadilla | :dollar: | :star::star::star:
 2016-08-09 | Bruegger's | 50 S 10th Street | deli bagel sandwich | :dollar: | :star::star::star:
 2016-08-08 | La Belle Crepe | 825 Nicollet Mall | jerk chicken banh mi | :dollar: | :star::star::star:
 2016-08-05 | Orient Express | 601 Marquette Ave (Quebec) | sesame chicken | :dollar: | :star::star::star:
