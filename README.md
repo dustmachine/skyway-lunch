@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-08-12 | Dave's Downtown | 900 2nd Ave S | bbq burger | :dollar: | :star::star::star::star:
 2016-08-11 | Macy's Kitchen | 700 Nicollet Mall | pepperoni sausage pizza | :dollar: | :star::star::star:
 2016-08-10 | Qdoba | 50 S 10th Street | chicken quesadilla | :dollar: | :star::star::star:
 2016-08-09 | Bruegger's | 50 S 10th Street | deli bagel sandwich | :dollar: | :star::star::star:
