@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-08-23 | Chicks on Wheels | 2nd Ave (food truck) | jerk chicken tacos | :dollar::dollar: | :star::star::star::star:
 2016-08-22 | The Moral Omnivore | 2nd Ave (food truck) | Wellington beef sliders | :dollar: | :star::star::star::star:
 2016-08-18 | O'Cheeze | 2nd Ave (food truck) | C C B R | :dollar: | :star::star::star::star:
 2016-08-12 | Dave's Downtown | 900 2nd Ave S | bbq burger | :dollar: | :star::star::star::star:
