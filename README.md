@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-08-25 | Flavor Wagon | 2nd Ave (food truck) | shrimp poboy bowl | :dollar: | :star::star::star:
 2016-08-24 | Tru Pizza | 2nd Ave (food truck) | the Light | :dollar::dollar: | :star::star::star::star:
 2016-08-23 | Chicks on Wheels | 2nd Ave (food truck) | jerk chicken tacos | :dollar::dollar: | :star::star::star::star:
 2016-08-22 | The Moral Omnivore | 2nd Ave (food truck) | Wellington beef sliders | :dollar: | :star::star::star::star:
