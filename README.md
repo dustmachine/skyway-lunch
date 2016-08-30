@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-08-30 | Chef Shack | 2nd Ave (food truck) | bison burger | :dollar: | :star::star::star::star:
+2016-08-29 | Target Cafe | 900 Nicollet Mall | marinara pasta | :dollar: | :star::star::star:
 2016-08-25 | Flavor Wagon | 2nd Ave (food truck) | shrimp poboy bowl | :dollar: | :star::star::star:
 2016-08-24 | Tru Pizza | 2nd Ave (food truck) | the Light | :dollar::dollar: | :star::star::star::star:
 2016-08-23 | Chicks on Wheels | 2nd Ave (food truck) | jerk chicken tacos | :dollar::dollar: | :star::star::star::star:
