@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-09-01 | Potter's | 2nd Ave (food truck) | chicken pastie | :dollar: | :star::star:
+2016-08-31 | Simply Steve's | 2nd Ave (food truck) | cajun turkey burger | :dollar: | :star::star::star::star:
 2016-08-30 | Chef Shack | 2nd Ave (food truck) | bison burger | :dollar: | :star::star::star::star:
 2016-08-29 | Target Cafe | 900 Nicollet Mall | marinara pasta | :dollar: | :star::star::star:
 2016-08-25 | Flavor Wagon | 2nd Ave (food truck) | shrimp poboy bowl | :dollar: | :star::star::star:
