@@ -6,6 +6,8 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-09-07 | Arby's | x | buffalo chicken | :dollar: | :star::star::star:
+2016-09-06 | Pepperjax Grill | Marquette (food truck) | chicken | :dollar: | :star::star::star:
 2016-09-01 | Potter's | 2nd Ave (food truck) | chicken pastie | :dollar: | :star::star:
 2016-08-31 | Simply Steve's | 2nd Ave (food truck) | cajun turkey burger | :dollar: | :star::star::star::star:
 2016-08-30 | Chef Shack | 2nd Ave (food truck) | bison burger | :dollar: | :star::star::star::star:
