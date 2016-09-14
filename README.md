@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-09-14 | Brava on Wheels | 2nd Ave (food truck) | curry chicken bowl | :dollar: | :star::star::star:
 2016-09-09 | Get Sauced | 2nd Ave (food truck) | tinga rice bowl | :dollar: | :star::star::star:
 2016-09-08 | Brooks High | 2nd Ave (food truck) | bluegill sliders | :dollar: | :star::star::star:
 2016-09-07 | Arby's | x  | buffalo chicken | :dollar: | :star::star::star:
