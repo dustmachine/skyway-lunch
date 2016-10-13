@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-10-10 | Allie's Deli | 527 S Marquette Ave (Rand) | cuban sandwich | :dollar: | :star::star::star:
 2016-10-03 | Lee's Express | 800 Nicollet Mall (USBank) | spicy chicken | :dollar: | :star::star::star:
 2016-09-20 | Falafel King | 2nd Ave (food truck) | gyro falafel combo | :dollar: | :star::star::star:
 2016-09-14 | Brava on Wheels | 2nd Ave (food truck) | curry chicken bowl | :dollar: | :star::star::star:
