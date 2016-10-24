@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-10-24 | Copper Pot Indian Grill | 10 S 5th Street | lunch buffet | :dollar: | :star::star::star:
 2016-10-20 | Five Guys | 555 Nicollet Mall | bacon burger | :dollar: | :star::star::star::star:
 2016-10-10 | Allie's Deli | 527 S Marquette Ave (Rand) | cuban sandwich | :dollar: | :star::star::star:
 2016-10-03 | Lee's Express | 800 Nicollet Mall (USBank) | spicy chicken | :dollar: | :star::star::star:
