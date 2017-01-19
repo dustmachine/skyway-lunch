@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2016-01-17 | Sorrento Cucina | 625 S Marquette Street | chicken parm | :dollar: | :star::star::star:
 2016-12-28 | Oceanaire | 50 S 6th Street | grilled oysters rock | :dollar::dollar::dollar: | :star::star::star::star:
 2016-12-27 | Starbucks | 33 S 6th Street | chorizo, jack, egg sandwich | :dollar: |:star::star::star::star:
 2016-11-03 | Greenfield Kitchen | 800 Nicollet Mall | shrimp rice bowl | :dollar: | :star::star::star::star:
