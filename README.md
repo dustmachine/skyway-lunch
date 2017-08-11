@@ -9,7 +9,6 @@ Date       | Name       | Approximate Location | Item          | Price | Item Ra
 2017-04-05 | Xstream Cuisine | Marquette (food truck) | Jerk chicken | :dollar::dollar: | :star::star::star:
 2017-03-29 | La Loma Tamales | 608 2nd Ave S (Northstar) | combo, chicken | :dollar::dollar: | :star::star::star:
 2017-03-27 | BEP Eatery | 100 S 5th Street | chicken vermicelli bowl | :dollar::dollar: | :star::star::star::star:
-2017-03-27 | BEP Eatery | 100 S 5th Street | chicken vermicelli bowl | :dollar::dollar: | :star::star::star::star:
 2017-02-27 | Peoples Organic Cafe | 80 S 8th Street (IDS) | turkey pesto sandwich | :dollar::dollar: | :star::star::star:
 2017-02-01 | Pad Ga Pow | 811 Lasalle Ave | spicy chicken | :dollar: | :star::star:
 2017-01-30 | Subway | 555 Nicollet Ave (RBC Plaza) | rotisserie chicken | :dollar: | :star::star::star:
