@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2018-05-23 | O'Cheeze | 705 Marquette Ave (Baker) | B.A.C.H.N. | :dollar::dollar: | :star::star::star:
 2018-03-27 | Walkin' Dog | 608 2nd Ave S (Northstar) | fire dog | :dollar: | :star::star::star:
 2018-03-20 | Sphere | 100 S 5th Street | shrimp and rice | :dollar::dollar: | :star::star::star:
 2017-08-17 | Turbo Tacos | Marquette (food truck) | Fish tacos | :dollar::dollar: | :star::star::star:
