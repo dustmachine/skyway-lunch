@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2018-07-13 | Volcano Hibachi | 2nd Ave (food truck) | chickend, shrimp, calamari | :dollar::dollar::dollar: | :star::star::star:
 2018-06-13 | Real Meal Deli | Baker Building | chipotle chicken | :dollar::dollar: | :star::star::star:
 2018-06-12 | Broadway Pizza | US Bank building? | packed pepperoni | :dollar::dollar: | :star::star::star:
 2018-05-23 | O'Cheeze | 705 Marquette Ave (Baker) | B.A.C.H.N. | :dollar::dollar: | :star::star::star:
