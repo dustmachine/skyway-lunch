@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2018-09-18 | Elevate Food Hall | 100 Washington Ave S | grilled chicken club | :dollar::dollar: | :star::star::star:
 2018-08-14 | Los Ocampo | 40 S 7th Street (City Center) | taco platter | :dollar::dollar: | :star::star::star:
 2018-08-07 | Green + The Grain | 200 S 6th Street (Baker) | buffalo shrimp caesar | :dollar::dollar::dollar: | :star::star::star:
 2018-07-13 | Volcano Hibachi | 2nd Ave (food truck) | chicken, shrimp, calamari | :dollar::dollar::dollar: | :star::star::star:
