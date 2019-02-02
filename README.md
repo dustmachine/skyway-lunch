@@ -6,6 +6,7 @@ Skyway Lunch Tracking - A list of places where I lunch
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
+2019-02-01 | Hibachi Daruma | 820 S Marquette Ave | teriyaki chicken | :dollar::dollar: | :star::star::star:
 2018-11-29 | Park Cafe | 300 South 6th Street | chicken burrito | :dollar::dollar: | :star::star::star:
 2018-09-18 | Elevate Food Hall | 100 Washington Ave S | grilled chicken club | :dollar::dollar: | :star::star::star:
 2018-08-14 | Los Ocampo | 40 S 7th Street (City Center) | taco platter | :dollar::dollar: | :star::star::star:
