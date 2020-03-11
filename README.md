@@ -2,7 +2,6 @@
 Skyway Lunch Tracking - A list of places where I lunch
 * Location Rating is based on cleanliness, speed, and overall atmosphere.
 * Item Rating is a 5-star scale
-* a missing date row implies leftovers
 
 Date       | Name       | Approximate Location | Item          | Price | Item Rating
 ----       | ----       | -------------------- | ------        | ----- | ------ 
